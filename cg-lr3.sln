@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "cg-lr3", "cg-lr3.csproj", "{9F79C240-CEFC-45BD-82F4-0F0F2C2A827E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F79C240-CEFC-45BD-82F4-0F0F2C2A827E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F79C240-CEFC-45BD-82F4-0F0F2C2A827E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F79C240-CEFC-45BD-82F4-0F0F2C2A827E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F79C240-CEFC-45BD-82F4-0F0F2C2A827E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {23FAF86B-3763-41D3-B726-DCCA2A83662E}
+	EndGlobalSection
+EndGlobal
